@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:id="@+id/mnuSave"
+    android:title="Kaydet"
+    android:icon="@drawable/savee"></item>
+
+    <item android:id="@+id/mnuLoad"
+        android:title="Yükle"
+        android:icon="@drawable/ykle"></item>
+</menu>
